@@ -63,4 +63,4 @@ Finalmente, para que el proyecto corra, ejecutar en la terminal:
 
 ## Deployment
 
-Próximamente, usando Vercel.
+https://entrega-final-react-six.vercel.app/
